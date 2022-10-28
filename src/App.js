@@ -25,13 +25,13 @@ function App() {
     <Navbar />
     <ul>
       <li>
-        <link to={"/ruta2"}>Ir a ruta 2</link>
+        <Link to={"/ruta2"}>Ir a ruta 2</Link>
         </li>
       <li>
-        <link to={"/"}>Ir a Home</link>
+        <Link to={"/"}>Ir a Home</Link>
         </li>
       <li>
-        <link to={"/rutax"}>Ir a objeto css</link>
+        <Link to={"/rutax"}>Ir a objeto css</Link>
         </li>
       
     </ul>
